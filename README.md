@@ -1,2 +1,2 @@
 # SCT_WD_1
-SkillCraft Web Development Task 1
+SkillCraft Task 1 Portfolio Website
